@@ -63,7 +63,7 @@ def consultar_nome(req):
    # except: 
        # return ("diga seu nome")
     
-   # firebase = firebase.FirebaseApplication('https://calendar-python-chatbot.firebaseio.com/,', None)
+   # firebase = firebase.FirebaseApplication(ID_PROJETO,', None)
   #  docs = firebase.get("/usuario","/usuarios/nomes",nome_usuario)
      
      
